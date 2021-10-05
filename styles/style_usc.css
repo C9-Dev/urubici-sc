@@ -1,0 +1,110 @@
+body {
+	font-family: 'Comfortaa', cursive;
+	background-color: #000011;
+	color: #eeffff;
+	margin-top: 10px;
+	line-height: 18px;
+}
+a:link {
+	color: #aaffff;
+	font-weight: bold;
+}
+a:visited {
+	color: #aaffff;
+	font-weight: bold;
+}
+a:hover {
+	color: #33aaff;
+	font-weight: bold;
+}
+h1 {
+	size: 36px;
+	color: #eeffff;
+	border-bottom: solid 1px #aaffff;
+	line-height: 36px;
+}
+h2 {
+	size: 22px;
+	color: #eeffff;
+	font-style: italic;
+	text-align: right;
+}
+h3 {
+	border-radius: 3px;
+	padding-left: 5px;
+	size: 16px;
+	color: #000011;
+	background-color: #33aaff;
+}
+#estrutura {
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#menu {
+	background-image: url("/Urubici - SC.png");
+	background-repeat: no-repeat;
+	background-position-x: 0px;
+	background-position-y: 0px;
+	padding-top: auto;
+	padding-bottom: 5px;
+	padding-left: auto;
+	vertical-align: top;
+	float: right; 
+}
+#menu p a:link{
+	border-radius: 9px;
+	border: solid 2px #000011;
+	font-weight: bold;
+	color: #000011;
+	background-color: #aaffff;
+	padding: 5px;
+	text-decoration: none;
+}
+#menu p a:visited{
+	font-weight: bold;
+	color: #000011;
+	background-color: #aaffff;
+	padding: 5px;
+	text-decoration: none;
+}
+#menu p a:hover{
+	font-weight: bold;
+	color: #aaffff;
+	background-color: #000011;
+	padding: 5px;
+	text-decoration: none;
+}
+img {
+	border-radius: 20px;
+	margin: 10px;
+	padding: 10px;
+	border: solid 2px #aaffff;
+}
+.caixa_texto {
+	text-align: justify;
+	text-indent: 25px;	
+}
+table {
+	border: solid thin #aaffff;
+}
+caption {
+	font-weight: bold;
+	color: #fff;
+	background-color: #000011;
+	padding: 5px;
+}
+th {
+	color: #fff;
+	background-color: #000011;
+	text-align: left;
+	padding: 5px;
+}
+td {
+	background-color: #000011;
+	padding: 5px;
+	border-top: solid 1px #aaffff;
+}
+.logo {
+	border: none;
+}
